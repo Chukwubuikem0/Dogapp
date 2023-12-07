@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Dogapp/static/css/main.71d89f82.css",
+    "main.js": "/Dogapp/static/js/main.66c08fa3.js",
+    "static/media/doglogo2.png": "/Dogapp/static/media/doglogo2.562a79836e035430a0e0.png",
+    "index.html": "/Dogapp/index.html",
+    "main.71d89f82.css.map": "/Dogapp/static/css/main.71d89f82.css.map",
+    "main.66c08fa3.js.map": "/Dogapp/static/js/main.66c08fa3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71d89f82.css",
+    "static/js/main.66c08fa3.js"
+  ]
+}
