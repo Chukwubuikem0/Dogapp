@@ -1,0 +1,72 @@
+
+
+  .main {
+    /* display: flex;
+    flex-direction: column; */
+    gap: 32px;
+    background-color: whitesmoke;
+    justify-content: center;
+  }
+
+  .navbar {
+    background-color:navajowhite;
+    padding: 10px 50px 10px 50px;
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    justify-content: space-around;
+    align-items: center;
+    /* gap: 300px; */
+  }
+
+  .navbar-links {
+    list-style: none;
+    margin: 0;
+    font: 600 "poppins", san-serif;
+    padding: 0;
+    align-items: center;
+    display: flex;
+    gap: 50px;
+  }
+
+  .navbar-links li {
+    margin: 0 10px;
+  }
+  
+  .navbar-links a {
+    text-decoration: none;
+    color: #161616;
+  }
+  
+  .images {
+    /* flex-wrap: wrap; */
+    height: 280px;
+    width:100%;
+    border-radius: 10px;
+  }
+  
+  .image {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 5px;
+    
+  }
+  
+  .dog-logo {
+    display: flex;
+    flex-direction: row;
+    height: 80px;
+  }
+
+  .caption {
+    text-align: center;
+    color: rgb(113, 70, 5);
+    font-size: 50px;
+  }
+  
+  .caption span {
+    text-align: center;
+    display: block;
+    margin-bottom: 16px;
+    /* margin-left: px; */
+  }
